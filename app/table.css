@@ -1,0 +1,11 @@
+.operation {
+    padding: 5px;
+}
+
+.remove {
+    color : red !important;
+}
+
+.update {
+    color : green;
+}
