@@ -1,8 +1,7 @@
 // main.js
 import React from 'react';
-import Table from './FlavorForm.jsx';
-import ReactDOM from 'react-dom';
-import './table.css'
+import Table from './MyTable.jsx';
+import ReactDOM from 'react-dom'
 
 ReactDOM.render(
     <Table />,

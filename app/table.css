@@ -1,11 +1,25 @@
 .operation {
     padding: 5px;
+    cursor: pointer;
 }
 
 .remove {
-    color : red !important;
+    color : red;
 }
 
 .update {
     color : green;
+}
+
+.addButton {
+    width: 100px;
+    margin: 10px 0px 10px 0px !important;
+}
+
+.bigCard {
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
 }
